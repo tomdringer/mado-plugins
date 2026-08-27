@@ -1,0 +1,24 @@
+# Mado community plugins
+#
+# To add your plugin, open a pull request. See CONTRIBUTING.md for details.
+#
+# Each entry:
+#   name        = binary name (should be mado-<something>)
+#   description = one sentence
+#   author      = GitHub username or org
+#   repo        = URL to the source repository
+#   kind        = sidebar-panel
+
+[[plugins]]
+name        = "mado-clock"
+description = "Clock, date, and weather sidebar panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-clock"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-ai"
+description = "AI assistant sidebar panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-ai"
+kind        = "sidebar-panel"
