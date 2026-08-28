@@ -1,3 +1,4 @@
 {
-    "clock": "tomdringer/mado-clock"
+    "clock": "tomdringer/mado-clock",
+    "clipboard": "tomdringer/mado-clipboard"
 }
