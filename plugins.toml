@@ -18,7 +18,14 @@ kind        = "sidebar-panel"
 
 [[plugins]]
 name        = "mado-ai"
-description = "AI assistant sidebar panel"
+description = "AI assistant terminal sidebar panel (claude, copilot, gemini, etc.)"
 author      = "tomdringer"
 repo        = "https://github.com/tomdringer/mado-ai"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-stats"
+description = "Tasku task statistics pixel plugin"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-stats"
 kind        = "sidebar-panel"
