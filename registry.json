@@ -2,5 +2,10 @@
     "clock": "tomdringer/mado-clock",
     "clipboard": "tomdringer/mado-clipboard",
     "ai": "tomdringer/mado-ai",
-    "stats": "tomdringer/mado-stats"
+    "stats": "tomdringer/mado-stats",
+    "pomodoro": "tomdringer/mado-pomodoro",
+    "timer": "tomdringer/mado-timer",
+    "memory": "tomdringer/mado-memory",
+    "world-time": "tomdringer/mado-world-time",
+    "browser": "tomdringer/mado-browser"
 }
