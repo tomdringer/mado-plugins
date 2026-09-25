@@ -29,3 +29,46 @@ description = "Tasku task statistics pixel plugin"
 author      = "tomdringer"
 repo        = "https://github.com/tomdringer/mado-stats"
 kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-clipboard"
+description = "Clipboard manager sidebar panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-clipboard"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-pomodoro"
+description = "Pomodoro timer sidebar panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-pomodoro"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-timer"
+description = "Countdown and stopwatch timer sidebar panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-timer"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-memory"
+description = "System memory and resource monitor sidebar panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-memory"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-world-time"
+description = "World clock showing multiple timezones"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-world-time"
+kind        = "sidebar-panel"
+
+[[plugins]]
+name        = "mado-browser"
+description = "Embedded browser panel"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-browser"
+kind        = "sidebar-panel"
+
