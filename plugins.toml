@@ -72,3 +72,9 @@ author      = "tomdringer"
 repo        = "https://github.com/tomdringer/mado-browser"
 kind        = "sidebar-panel"
 
+[[plugins]]
+name        = "mado-news"
+description = "RSS feed"
+author      = "tomdringer"
+repo        = "https://github.com/tomdringer/mado-news"
+kind        = "sidebar-panel"
