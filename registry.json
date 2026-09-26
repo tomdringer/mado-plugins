@@ -7,5 +7,6 @@
     "timer": "tomdringer/mado-timer",
     "memory": "tomdringer/mado-memory",
     "world-time": "tomdringer/mado-world-time",
-    "browser": "tomdringer/mado-browser"
+    "browser": "tomdringer/mado-browser",
+    "news": "tomdringer/mado-news"
 }
